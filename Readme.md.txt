@@ -1,4 +1,4 @@
-# To-Do List Manager
+To-Do List Manager
 
 A simple command-line Python application to manage tasks with descriptions and priorities (High, Medium, Low). Users can add, view, and remove tasks, with basic error handling for invalid inputs.
 
