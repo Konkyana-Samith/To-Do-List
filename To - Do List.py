@@ -1,9 +1,7 @@
-# To-Do List Manager
-
-# Initialize an empty list to store tasks
+# Initialization an empty list to store tasks
 tasks = []
 
-# Function to add a task
+# Function to ADD a task
 def add_task(description, priority):
     task = {"description": description, "priority": priority}
     tasks.append(task)
